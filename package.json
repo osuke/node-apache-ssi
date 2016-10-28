@@ -1,0 +1,16 @@
+{
+  "name": "node-apache-ssi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "connect": "^3.5.0",
+    "connect-ssi": "^1.1.0",
+    "serve-static": "^1.11.1"
+  }
+}
